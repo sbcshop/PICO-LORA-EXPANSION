@@ -2,7 +2,7 @@
 
 
 
-<img src="https://learn.sb-components.co.uk/images/thumb/9/94/Pico_lora_868.png" />
+<img src="https://learn.sb-components.co.uk/images/9/94/Pico_lora_868.png" />
 
 ## How to use ?
 
