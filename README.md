@@ -25,6 +25,8 @@
   * <b> Mode Selection Jumper :</b> M0 - OPEN, M1 - Open (we are going to use PICO gpio pi GP2 and GP3 to control MODE Selection)
   * <b> Device Selection Jumper : </b> Set is as MODE 2 to enable PICO to LORA Communication
 
+* Stack Raspberry Pi Pico on both boards.
+* Now connect USB Cable on USB Port of Pico 1.
 * 
 
 
