@@ -51,4 +51,7 @@
 
 <b> Once setup both board successfully, you can notice that both board are sending text to each other </b>
 You can change below variable to change transmitting text :
-``` txData = b'hellow world' ```
+
+``` txData = b'hellow world' ``` 
+
+Put your text between single quote.
