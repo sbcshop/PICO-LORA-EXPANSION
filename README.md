@@ -2,7 +2,7 @@
 
 
 
-<img src="https://cdn.shopify.com/s/files/1/1217/2104/products/3vPicoRelayBoard_700x.png" />
+<img src="https://learn.sb-components.co.uk/images/thumb/9/94/Pico_lora_868.png" />
 
 ## How to use ?
 
