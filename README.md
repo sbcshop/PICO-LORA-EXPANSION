@@ -12,7 +12,7 @@ Pico LoRa™ Expansion is a low-power consumption data transmission board, comes
 
 ### Requirements
 
-* Pico LORA Expansion: (Buy it from : https://shop.sb-components.co.uk/products/pico-dual-channel-relay-hat  )
+* Pico LORA Expansion: (Buy it from :  )
 * Raspberry Pi Pico (Buy it from : https://shop.sb-components.co.uk/collections/latest-collections/products/raspberry-pi-pico-board-with-header )
 * USB Cable
 
