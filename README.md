@@ -52,6 +52,6 @@ Pico LoRa™ Expansion is a low-power consumption data transmission board, comes
 <b> Once setup both board successfully, you can notice that both board are sending text to each other </b>
 You can change below variable to change transmitting text :
 
-``` txData = b'hellow world' ``` 
+``` txData = b'hello world' ``` 
 
 Put your text between single quote.
