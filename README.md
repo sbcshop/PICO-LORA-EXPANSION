@@ -32,7 +32,7 @@ Pico LoRa™ Expansion is a low-power consumption data transmission board, comes
   * <b> Device Selection Jumper : 
     * </b> Set is as MODE 2 to enable PICO to LORA Communication (This is also mention in the board)
 
-<b> For Board 1 And Board 2</b>
+<b> For Board 1 </b>
 
 * Stack Raspberry Pi Pico on both boards.
 * Now connect USB Cable on USB Port of Pico 1.
