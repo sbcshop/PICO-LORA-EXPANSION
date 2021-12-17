@@ -23,14 +23,14 @@ Pico LoRa™ Expansion is a low-power consumption data transmission board, comes
 
 * First take 2 LORA Expansion board and set jumper position as mention below:
   * <b> Mode Selection Jumper :</b> we are going to use PICO gpio pi GP2 and GP3 to control MODE Selection
-  * <b> LoRa mode selection jumpers 
-    * <b> short M0, short M1: transmission mode (In this project we use transmission mode)
-    * <b> short M0, open M1: configuration mode (You can configure the lora via this mode)
-    * <b> open M0, short M1: WOR mode
-    * <b> open M0, open M1: deep sleep mode
+   * <b> LoRa mode selection jumpers 
+     * <b> short M0, short M1: transmission mode (In this project we use transmission mode)
+     * <b> short M0, open M1: configuration mode (You can configure the lora via this mode)
+     * <b> open M0, short M1: WOR mode
+     * <b> open M0, open M1: deep sleep mode
  
   * <b> Device Selection Jumper : 
-    * </b> Set is as MODE 2 to enable PICO to LORA Communication(This is also mention in the board)
+    * </b> Set is as MODE 2 to enable PICO to LORA Communication (This is also mention in the board)
 
 <b> For Board 1 </b>
 
