@@ -28,6 +28,7 @@ Pico LoRa™ Expansion is a low-power consumption data transmission board, comes
     * <b> short M0, open M1: configuration mode
     * <b> open M0, short M1: WOR mode
     * <b> open M0, open M1: deep sleep mode
+ 
  * <b> Device Selection Jumper : </b> Set is as MODE 2 to enable PICO to LORA Communication
 
 <b> For Board 1 </b>
