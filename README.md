@@ -54,7 +54,7 @@ Pico LoRa™ Expansion is a low-power consumption data transmission board, comes
 
 <img src="https://github.com/sbcshop/Raspberry-Pi-Pico-RFID-Expansion/blob/main/images/thonny-interpreter.PNG" />
 
-* Now Create a file "Lcd1_14driver.py" as same content from PICO LORA Expansion's github repository in thonny ide, and save it in root location of second Raspberry Pi Pico with same name "Lcd1_14driver.py" (without quotes).
+* Now Create a file "Lcd1_14driver.py" as same content from PICO LORA Expansion's GitHub repository in thonny ide, and save it in the root location of second Raspberry Pi Pico with the same name "Lcd1_14driver.py" (without quotes).
 * Copy and Paste or Open "tx_rx_lora2.py" code in thonny ide.
 * Click on green play button to run example of Pico LORA Expansion on Board 2, You can either save this file on root location of PICO or on your Computer drive.
 
@@ -73,6 +73,7 @@ Put your text between single quote.
        * st7789.py      -> this is the lcd library file
  
    * Pi Lora Homeautomation (with LCD display), In this folder you see three files
-       * pi_lora_transmitter_home_automation.py
-       * pi_lora_receiver_home_automation.py 
+       * lora_rx_automation.py.py
+       * lora_tx_automation.py.py 
+       * Lcd1_14driver.py         ->this is the lcd library file
     
