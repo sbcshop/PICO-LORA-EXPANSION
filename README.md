@@ -64,3 +64,15 @@ You can change below variable to change transmitting text :
 ``` txData = b'hello world' ``` 
 
 Put your text between single quote.
+
+ ## Applications
+ In this folder you see two application
+   * Pico Lora Broadcast (with LCD display), In this folder you see three files
+       * transmitter.py -> run this file to broadcast the data (any data eg: sensor data,any string and message etc)
+       * receiver.py    -> run this file to receive broadcast data from other lora
+       * st7789.py      -> this is the lcd library file
+ 
+   * Pi Lora Homeautomation (with LCD display), In this folder you see three files
+       * pi_lora_transmitter_home_automation.py
+       * pi_lora_receiver_home_automation.py 
+    
