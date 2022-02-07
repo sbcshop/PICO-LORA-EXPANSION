@@ -76,4 +76,7 @@ Put your text between single quote.
        * lora_rx_automation.py.py
        * lora_tx_automation.py.py 
        * Lcd1_14driver.py         ->this is the lcd library file
+
+### <a href="https://learn.sb-components.co.uk/Pico-Lora-Expansion-board" > PICO LORA Expansion Wiki Portal </a>
+
     
