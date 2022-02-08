@@ -65,8 +65,8 @@ You can change below variable to change transmitting text :
 
 Put your text between single quote.
 
- ## For configuration of Lora module go to below link
- <a href="https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi" > PICO LORA Configuration mode </a>
+ ## For configuration of Lora module(Lora Hat,Lora Pico Expansion) go to below link
+ <a href="https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi" > PICO LORA CONFIGURATION MODE </a>
  
  
  ## Applications
