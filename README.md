@@ -40,9 +40,9 @@ Pico LoRa™ Expansion is a low-power consumption data transmission board, comes
 
 <img src="https://github.com/sbcshop/Raspberry-Pi-Pico-RFID-Expansion/blob/main/images/thonny-interpreter.PNG" />
  
-* Save this firmware.uf2 in the pico by draging this file to pico 
-* Now Create a file "Lcd1_14driver.py" as same content from PICO LORA Expansion's github repository in thonny ide, and save it in root location of first Raspberry Pi Pico with same name "Lcd1_14driver.py" (without quotes).
-* we have two codes "tx_rx_lora1.py" and "tx_rx_lora2.py" both the codes are same, only change in "txdata", in one of the code "txdata = 123456" and in other code "txdata = abcdef",from this we can see the message send or receive clearly in both the pi lora hat.
+* Save this firmware.uf2 in the pico by dragging this file to pico 
+* Now create a file "Lcd1_14driver.py" as the same content from PICO LORA Expansion's GitHub repository in thorny ide, and save it in the root location of the first Raspberry Pi Pico with same name "Lcd1_14driver.py" (without quotes).
+* we have two codes "tx_rx_lora1.py" and "tx_rx_lora2.py" both the codes are the same, only change in "txdata", in one of the codes "txdata = 123456" and in other code "txdata = abcdef", from this we can see the message send or receive clearly in both the pi lora hat.
 * Copy and Paste or Open the "tx_rx_lora1.py" code in thonny ide..
 * Click on green play button to run example of Pico LORA Expansion on Board 1, You can either save this file on root location of PICO or on your Computer drive.
 
@@ -65,6 +65,10 @@ You can change below variable to change transmitting text :
 
 Put your text between single quote.
 
+ ## For configuration of Lora module go to below link
+ <a href="https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi" > PICO LORA Configuration mode </a>
+ 
+ 
  ## Applications
  In this folder you see two application
    * Pico Lora Broadcast (with LCD display), In this folder you see three files
