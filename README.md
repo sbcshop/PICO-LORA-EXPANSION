@@ -85,22 +85,21 @@ Put your text between single quote.
 
 * GatePi 4Channel
 * GatePi 8channel
-* RangePi*
+* RangePi
 * LoRA HAT for RPi
-* PICO LoRa Expansion
+* PICO LoRa Expansion*
 
 You will simply need to make one device to work as reciever and another one is as a transmitter. So that you can communicate to each other and this can be done with any of our LoRa products mentioned above. For working with our other products please follow the below link:
 
 * GatePi 4Channel
 https://github.com/sbcshop/GatePi-4CH
-
 * GatePi 8channel
 https://github.com/sbcshop/GatePi-8CH
-* RangePi* (Itself)
+* RangePi
+ https://github.com/sbcshop/RangePi
 * LoRA HAT for RPi
 https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi
-* PICO LoRa Expansion
-https://github.com/sbcshop/PICO-LORA-EXPANSION
+* PICO LoRa Expansion* (Itself)
 
 ### Note: Every time you choose the different transmit device the transmit code of that device should be run in it and reciever code will always same(or depending upon what you want to control or recieve).
 
