@@ -80,6 +80,29 @@ Put your text between single quote.
        * lora_rx_automation.py.py
        * lora_tx_automation.py.py 
        * Lcd1_14driver.py         ->this is the lcd library file
+       
+## Our Other LoRa Products
+
+* GatePi 4Channel
+* GatePi 8channel
+* RangePi*
+* LoRA HAT for RPi
+* PICO LoRa Expansion
+
+You will simply need to make one device to work as reciever and another one is as a transmitter. So that you can communicate to each other and this can be done with any of our LoRa products mentioned above. For working with our other products please follow the below link:
+
+* GatePi 4Channel
+https://github.com/sbcshop/GatePi-4CH
+
+* GatePi 8channel
+https://github.com/sbcshop/GatePi-8CH
+* RangePi* (Itself)
+* LoRA HAT for RPi
+https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi
+* PICO LoRa Expansion
+https://github.com/sbcshop/PICO-LORA-EXPANSION
+
+### Note: Every time you choose the different transmit device the transmit code of that device should be run in it and reciever code will always same(or depending upon what you want to control or recieve).
 
 ### <a href="https://learn.sb-components.co.uk/Pico-Lora-Expansion-board" > PICO LORA Expansion Wiki Portal </a>
 
